@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "server for \"Secrets of the Nanhai No.1\" project - IMA Low Res Fall 2025 Interface Lab project 2 ",
+  "license": "ISC",
+  "author": "Helena Cobo & Cecilia Li",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
