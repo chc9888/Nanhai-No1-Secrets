@@ -1,2 +1,21 @@
 Shared repository for Connections Lab project 2 - IMA Low Res Fall 2025
 Cecilia Li & Helena Cobo
+
+Nanhai-No1-Secrets/
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   ├── scripts/
+│   │   └── main.js
+│   └── assets/
+│       ├── images/
+│       └── sounds/
+│
+├── backend/
+│   ├── server.js
+│   ├── package-lock.json
+│   └── package.json
+│
+├── .gitignore
+├── README.md
