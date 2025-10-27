@@ -1,0 +1,83 @@
+{
+    "objects": {
+        "obj_001": {
+            "name": "Empty Box",
+            "description": "Sorry, someone got here before you did!",
+            "fragmentPoints": 0,
+            "completionBonus": 0,
+            "spawnRate": 0.25
+        },
+        "obj_002": {
+            "name": "Copper Coin",
+            "description": "Mixed cash coins ranging from Han to Southern Song show how money circulated across ports on the Maritime Silk Road. Corrosion patterns and sand infill suggest long submersion and movement along the seabed.",
+            "fragmentPoints": 1,
+            "completionBonus": 6,
+            "spawnRate": 0.20
+        },
+        "obj_003": {
+            "name": "Silver Ingot with Hallmark",
+            "description": "Trade silver stamped with hallmarks—often shop names, weights, or “capital sales” marks like “京销” tied to Hangzhou’s minting/commerce—reads like a ledger in metal. These marks help map Song-era supply chains and trust networks.",
+            "fragmentPoints": 2,
+            "completionBonus": 7,
+            "spawnRate": 0.15
+        },
+        "obj_004": {
+            "name": "Longquan Celadon plate",
+            "description": "Longquan celadon from Zhejiang was among China’s most exported wares; its jade-like glaze and carved lotus or scrolling motifs were prized from the Middle East to East Africa. This plate is a textbook example of ocean-going tableware.",
+            "fragmentPoints": 3,
+            "completionBonus": 8,
+            "spawnRate": 0.12
+        },
+        "obj_005": {
+            "name": "White-Glazed Ewer",
+            "description": "Qingbai/white-glazed forms from Jingdezhen and Fujian kilns often catered to overseas tastes—slender spouts, flared rims, and light bodies made them ideal for wine or water on long voyages. Its “designed-for-export” profile is unmistakable.",
+            "fragmentPoints": 4,
+            "completionBonus": 9,
+            "spawnRate": 0.10
+        },
+        "obj_006": {
+            "name": "Jade Arhat Figure",
+            "description": "A small jade carving of a meditating monk links commerce and belief. Portable devotional objects traveled with crews and merchants, reflecting how religion—like ceramics and silver—moved along maritime routes.",
+            "fragmentPoints": 5,
+            "completionBonus": 10,
+            "spawnRate": 0.07
+        },
+        "obj_007": {
+            "name": "Gold Ring with Gemstone",
+            "description": "Several rings surfaced together, some with empty bezels and others still holding tiny pearls. Personal adornment aboard a cargo ship hints at wealthy passengers—and at gifts intended for families far from home.",
+            "fragmentPoints": 6,
+            "completionBonus": 11,
+            "spawnRate": 0.05
+        },
+        "obj_008": {
+            "name": "Gold Necklace",
+            "description": "A delicate chain recovered from a sealed lacquer box shows how valuables were packed for sea. Finds like this illuminate shipboard life: commerce in the hold, intimacy and insurance tucked in small containers.",
+            "fragmentPoints": 7,
+            "completionBonus": 12,
+            "spawnRate": 0.03
+        },
+        "obj_009": {
+            "name": "Gilded Dragon-Pattern Bracelet",
+            "description": "Two gilded dragons “chasing a pearl” spiral around the form—a potent Chinese motif of power and protection. Some scholars even debate whether pieces like this were bracelets or ornate handles, a question that keeps the object thrillingly unsettled.",
+            "fragmentPoints": 8,
+            "completionBonus": 13,
+            "spawnRate": 0.02
+        },
+        "obj_010": {
+            "name": "Gilded Belt with Persian Influence",
+            "description": "Roughly 1.7 meters long and woven from multiple gilded strands, the belt’s geometric patterning and clasp echo West Asian metalwork. It’s a masterpiece of cross-cultural fashion—Chinese craftsmanship meeting Persian aesthetics along the sea lanes.",
+            "fragmentPoints": 10,
+            "completionBonus": 10,
+            "spawnRate": 0.01
+        }
+    },
+    "gameConfig": {
+        "fragmentsPerObject": 4,
+        "jumpScareEvent": {
+            "enabled": true,
+            "triggerChance": 0.10,
+            "cooldownMinutes": 5
+        }
+    },
+    "players": {}
+}
