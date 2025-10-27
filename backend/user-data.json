@@ -1,0 +1,14 @@
+{
+  "players": {
+    "player_local": {
+      "username": "LocalPlayer",
+      "totalPoints": 0,
+      "collectedFragments": {
+
+      },
+      "completedObjects": {
+
+      }
+    }
+  }
+}
