@@ -70,14 +70,5 @@
             "completionBonus": 10,
             "spawnRate": 0.01
         }
-    },
-    "gameConfig": {
-        "fragmentsPerObject": 4,
-        "jumpScareEvent": {
-            "enabled": true,
-            "triggerChance": 0.10,
-            "cooldownMinutes": 5
-        }
-    },
-    "players": {}
+    }
 }
