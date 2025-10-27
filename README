@@ -6,14 +6,15 @@ Nanhai-No1-Secrets/
 ├── frontend/
 │   ├── index.html
 │   ├── style.css
-│   ├── scripts/
-│   │   └── main.js
+│   ├── main.js
 │   └── assets/
 │       ├── images/
 │       └── sounds/
 │
 ├── backend/
 │   ├── data-base.json
+│   ├── user-data.json
+│   ├── index.js
 │   ├── package-lock.json
 │   └── package.json
 │
